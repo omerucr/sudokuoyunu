@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+<style>
+    table{
+        border: 2px;
+        border-collapse: collapse;
+        background-color: rgb(140, 145, 140);
+    }
+    td{
+        width: 30px;
+        height: 30px;
+        border: 1px solid rgb(0, 0, 0);
+        text-align: center;
+        font-size: 16px;
+        color: aliceblue;
+    }
+ 
+ p{
+    text-align: center;
+    color: rgb(90, 90, 94);
+    font-size:larger;
+    font-weight: bold;
+ }
+ div{
+    display: inline-block;
+ }
+</style>
+
+
+</head>
+<body>
+    <div>
+    <table style="width 60% ">
+        
+         <P class="sudoko">SUDOKU</P> 
+          <tr>
+            <td>4</td>
+            <td>2</td>
+            <td>3</td>
+            <td>5</td>
+            <td>1</td>
+            <td>6</td>
+            
+          </tr>
+          <tr>
+            <td>5</td>
+            <td>6</td>
+            <td>1</td>
+            <td>3</td>
+            <td>2</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>1</td>
+            <td>5</td>
+            <td>4</td>
+            <td>2</td>
+            <td>6</td>
+            <td>3</td>
+          </tr>
+          <tr>
+            <td>2</td>
+            <td>3</td>
+            <td>6</td>
+            <td>4</td>
+            <td>5</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>3</td>
+            <td>1</td>
+            <td>2</td>
+            <td>6</td>
+            <td>4</td>
+            <td>5</td>
+          </tr>
+
+         <tr>
+         <td>6</td>
+         <td>4</td>
+         <td>5</td>
+         <td>1</td>
+        <td>3</td>
+         <td>2</td>
+        </tr>
+
+          
+        </tbody>
+
+</div>
+
+        
+</body>
+</html>
